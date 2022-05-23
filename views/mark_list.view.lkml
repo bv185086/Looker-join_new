@@ -5,16 +5,19 @@ view: mark_list {
 
   dimension: id {
     primary_key: yes
+    label: "id"
     type: string
     sql: ${TABLE}.ID ;;
   }
 
   dimension: marks {
+    label: "marks"
     type: number
     sql: ${TABLE}.Marks ;;
   }
 
   dimension: name {
+    label: "name"
     type: string
     sql: ${TABLE}.Name ;;
   }
