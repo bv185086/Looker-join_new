@@ -9,5 +9,6 @@
   "Localization_demo" : "Localization demo",
   "Bar" : "Bar",
   "Table" :"Table",
-  "scatter" : "Scatter"
+  "scatter" : "Scatter",
+  "Single" : "single_value"
 }

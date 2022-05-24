@@ -116,6 +116,8 @@
     width: 8
     height: 6
   - title: Single Value
+    show_single_value_title: true
+    single_value_title: "Single"
     name: Single Value
     model: bv_new_report
     explore: mark_list
