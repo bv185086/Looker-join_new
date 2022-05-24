@@ -4,8 +4,8 @@
   preferred_viewer: dashboards-next
   description: 'Localization demo'
   elements:
-  - title: 'Bar '
-    name: 'Bar '
+  - title: 'Bar'
+    name: 'Bar'
     model: bv_new_report
     explore: mark_list
     type: looker_column
