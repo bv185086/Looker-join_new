@@ -1,5 +1,6 @@
 {
   "id": "Identifier",
   "name": "Name",
-  "marks": "Score"
+  "marks": "Score",
+  "trial_local" : "trial_local"
 }

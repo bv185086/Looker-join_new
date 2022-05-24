@@ -1,5 +1,5 @@
 - dashboard: local_demo
-  title: local_demo
+  title: "trial_local"
   layout: newspaper
   preferred_viewer: dashboards-next
   description: ''
