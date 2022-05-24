@@ -1,13 +1,13 @@
 {
-  "id" : "pahchankarta",
-  "name" : "naaam",
-  "marks" : "ank",
-  "subject" : "vishay",
-  "ADC" : "ganith",
-  "APC" : "sangik",
-"trial_local" :"chihn suchi",
+  "id" : "पहचानकर्ता",
+  "name" : "नाम",
+  "marks" : "चिह्न",
+  "subject" : "विषय",
+  "ADC" : "एनालॉग",
+  "APC" : "सर्किट",
+"trial_local" :"चिह्न सूची",
 "Localization_demo" : "sthaneeykaran",
-"Bar" : "Naam-ank",
-"Table" :"Thalika",
-"scatter" : "Bindi-ank"
+"Bar" : "मार्क्स",
+"Table" :"तालिक ",
+"scatter" : "स्कैटर"
 }
