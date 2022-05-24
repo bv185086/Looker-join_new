@@ -45,7 +45,7 @@
     col: 0
     width: 8
     height: 6
-  - title: Table
+  - title: "Table"
     name: Table
     model: bv_new_report
     explore: mark_list
@@ -77,7 +77,7 @@
     col: 8
     width: 8
     height: 6
-  - title: scatter
+  - title: "scatter"
     name: scatter
     model: bv_new_report
     explore: mark_list
@@ -116,8 +116,6 @@
     width: 8
     height: 6
     title: "Value"
-    show_single_value_title: true
-    single_value_title: "Single"
     name: Single Value
     model: bv_new_report
     explore: mark_list
@@ -127,6 +125,7 @@
     limit: 500
     custom_color_enabled: true
     show_single_value_title: true
+    single_value_title: "Single"
     show_comparison: false
     comparison_type: value
     comparison_reverse_colors: false

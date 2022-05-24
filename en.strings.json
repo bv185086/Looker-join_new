@@ -10,5 +10,6 @@
   "Bar" : "Bar",
   "Table" :"Table",
   "scatter" : "Scatter",
+  "Value" : "Single",
   "Single" : "single_value"
 }
