@@ -28,8 +28,7 @@ view: mark_list {
     sql: CASE
           WHEN ${TABLE}.Subject= 'ADC' THEN '{{ _localization['ADC'] }}'
           ELSE '{{ _localization['APC'] }}'
-          END;
-        # sql: ${TABLE}.Subject ;;
+          END;;
   }
 
   measure: count {
