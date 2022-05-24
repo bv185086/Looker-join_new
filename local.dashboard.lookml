@@ -115,3 +115,26 @@
     col: 16
     width: 8
     height: 6
+  - title: Single Value
+    name: Single Value
+    model: bv_new_report
+    explore: mark_list
+    type: single_value
+    fields: [mark_list.subject]
+    sorts: [mark_list.subject]
+    limit: 500
+    custom_color_enabled: true
+    show_single_value_title: true
+    show_comparison: false
+    comparison_type: value
+    comparison_reverse_colors: false
+    show_comparison_label: true
+    enable_conditional_formatting: false
+    conditional_formatting_include_totals: false
+    conditional_formatting_include_nulls: false
+    series_types: {}
+    defaults_version: 1
+    row: 6
+    col: 0
+    width: 8
+    height: 6
