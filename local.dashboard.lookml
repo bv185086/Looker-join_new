@@ -115,7 +115,7 @@
     col: 16
     width: 8
     height: 6
-  - title: Single Value
+  # - title: Single Value
     show_single_value_title: true
     single_value_title: "Single"
     name: Single Value
