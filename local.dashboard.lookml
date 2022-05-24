@@ -2,7 +2,7 @@
   title: "trial_local"
   layout: newspaper
   preferred_viewer: dashboards-next
-  description: ''
+  description: 'Localization demo'
   elements:
   - title: 'Bar '
     name: 'Bar '

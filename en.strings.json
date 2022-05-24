@@ -2,5 +2,9 @@
   "id": "Identifier",
   "name": "Name",
   "marks": "Score",
-  "trial_local" : "trial_local"
+  "trial_local" : "trial_local",
+  "Localization demo" : "Localization demo",
+  "Bar" : "Bar",
+  "Table" :"Table",
+  "scatter" : "Scatter"
 }
