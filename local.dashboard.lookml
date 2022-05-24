@@ -2,10 +2,10 @@
   title: "trial_local"
   layout: newspaper
   preferred_viewer: dashboards-next
-  description: 'Localization_demo'
+  description: ''
   elements:
   - title: 'Bar'
-    name: 'Bar'
+    name: 'Bar '
     model: bv_new_report
     explore: mark_list
     type: looker_column
@@ -115,7 +115,7 @@
     col: 16
     width: 8
     height: 6
-    title: "Value"
+  - title: "Value"
     name: Single Value
     model: bv_new_report
     explore: mark_list
@@ -125,7 +125,7 @@
     limit: 500
     custom_color_enabled: true
     show_single_value_title: true
-    single_value_title: "Single"
+    single_value_title : "Single"
     show_comparison: false
     comparison_type: value
     comparison_reverse_colors: false
