@@ -23,8 +23,13 @@ view: mark_list {
   }
 
   dimension: subject {
+    label: "subject"
     type: string
-    sql: ${TABLE}.Subject ;;
+    sql: CASE
+          WHEN ${TABLE}.Subject= 'ADC' THEN '{{ _localization['ADC'] }}'
+          ELSE '{{ _localization['APC'] }}'
+          END;
+        # sql: ${TABLE}.Subject ;;
   }
 
   measure: count {
